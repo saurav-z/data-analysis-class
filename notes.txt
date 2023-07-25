@@ -5,3 +5,4 @@ Outliers : The data which is significantly different from other data.
 Mean: Average
 Mode: Highest repeated Frequency
 Median: Mid Value
+Measures of dispersion:
