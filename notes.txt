@@ -3,3 +3,4 @@ Statistic- It is branch of science that deals with collection of data, analysis 
 Data - Any piece of information that can be saved
 
 Measurement of central tendency mean median and mode
+
