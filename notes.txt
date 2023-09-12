@@ -2,8 +2,53 @@ Statistic- It is branch of science that deals with collection of data, analysis 
 Data - Any piece of information that can be saved
 Measurement of central tendency mean median and mode
 Outliers : The data which is significantly different from other data.
+
+
 Mean: Average
 Mode: Highest repeated Frequency
 Median: Mid Value
 Measures of dispersion:  1 Variance
-                         2 Standard Deviation
+                         2 Statistics is a branch of science that deals with the collection of the data, analysis of data and presenting the data.
+
+Anything you store is data. 
+
+* Measures of central tendency
+
+Mean, median, and mode
+
+Mean- Mean is an average value, suppose the datas are 10,20,30. Then, the mean of the data is 20.
+But jastai euta class ma there are 5 people, 20,22,21,20,92, then esko average 35 aacha but mostly ta 20-30 ko ma matra cha aged manche haru, so 92 le ta arulai determine garyo which is wrong, so 92 is an outlier
+
+Outlier- Outlier is a data that is significantly different than the other datas.
+
+So, esto outlier bhako case ma, mean le euta average data dine bhayena, so in that case we need median
+
+Suppose the datas are, 20,21,22,23,92 i.e odd number of datas then, biccha ko value which is 22 is the median
+Incase the datas are 20,21,22,23 i.e even number of datas, then bicchako values ta 21 ra 22 cha, so 21+22/2 is the median in this case.
+
+Mode is the highest repeated frequency. 
+
+
+Suppose order garda, MOMO- 50 jana le bhanyo, Pizza- 20 jana le bhanyo, Noodles-1 jana le bhanyo, so since momo dherai le maga ko cha, so momo is the mode of the data
+
+* Measures of dispersion
+
+Dispersion- data charrinu
+
+Suppose datas are 20,20,20,22,22,22. Then, esko mean 21 ho
+And suppose another data 10,15,20,25,30,35, esko mean pani 21 nai ho but yo case ma data badi scatter bhacha, so esma variance of data dherai cha
+
+Standard deviation- It calculates kati le data charreko cha bhanera.Standard Deviation
+
+
+
+Numoy Advantage - It is very fast because it is written in C and C++
+		- It is free and open-source
+        
+        
+        
+Pandas
+
+Pandas is built on top of numpy
+Pandas is free and open source
+Pandas is very fasr and efficient to work with large datasets
